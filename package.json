@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-classield",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panasoniclam/nodejs-classield.git"
+  },
+  "author": "lamnn8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panasoniclam/nodejs-classield/issues"
+  },
+  "homepage": "https://github.com/panasoniclam/nodejs-classield#readme",
+  "dependencies": {
+    "express-generator": "^4.16.1"
+  }
+}

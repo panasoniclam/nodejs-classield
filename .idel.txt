@@ -1,0 +1,7 @@
+-- lenh cai dat express 
+npm install express-generator -g
+-- lenh tao proejct
+express --view=your_template_engine name_app
+ + your_template_engine: la template ma minh muon su dung
+ + name_app: ten du an , ,ten thu muc chua du an
+ 
