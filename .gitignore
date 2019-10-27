@@ -5,7 +5,7 @@ bin-release/
 [Bb]in/
 /node_modules/
 .env
-.idel
+.idel.txt
 # Other files and folders
 .settings/
 
